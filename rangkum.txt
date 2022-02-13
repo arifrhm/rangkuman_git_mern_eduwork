@@ -1,0 +1,37 @@
+Manfaat git :
+Untuk version control system (mencatat setiap perubahan file di code atau source code kita dan kolaborasi tim coding)
+
+git init:
+perintah git untuk membuat repo baru (inisialisasi)
+
+git clone:
+perintah git untuk download repository online / server
+
+Git pull : 
+perintah git untuk menarik perubahan yang dilakukan di repository server
+
+Git add .:
+menambahkan semua perubahan yang akan dicommit (masuk ke staging area)
+
+git commit -m "{your_message}" :
+commit atau memberikan pesan/catatan untuk sesuatu yang dirubah
+
+Git push :
+mengupload perubahan pada repo server
+
+Git merge :
+merge branch yang conflict
+
+Git branch {nama_branch}:
+Memmbuat branch baru
+
+Git status :
+Digunakan untuk mengetahui status file
+Status file secara umum ada 3. Untracked, staging area, modified
+
+Git log :
+melihat log perubahan yang terjadi
+
+git config :
+konfigurasi email untuk git account local/global
+
